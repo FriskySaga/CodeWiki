@@ -1,5 +1,5 @@
 # CodeWiki
-Idly browsing your phone? Why not spend that time learning some new APIs?
+Idly browsing your phone? Why not spend that time to learn new APIs?
 
 Lead your own adventure through the CodeWiki, or leave your fate up to RNG!
 
