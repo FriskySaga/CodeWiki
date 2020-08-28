@@ -1,0 +1,28 @@
+{
+  "websites":[
+    {
+      "title": "FriskyLabs",
+      "developer": "FriskySaga",
+      "url": "https://friskylabs.wordpress.com/",
+      "tags": ["blog"]
+    },
+    {
+      "title": "YouTube Data API",
+      "developer": "Google",
+      "url": "https://developers.google.com/youtube/v3/docs",
+      "tags": ["youtube", "api", "curl", "http", "javascript", "java", "php", "python"]
+    },
+    {
+      "title": "Python YouTube",
+      "developer": "Ikaros Kun",
+      "url": "https://pypi.org/project/python-youtube/",
+      "tags": ["youtube", "api", "wrapper", "python"]
+    },
+    {
+      "title": "youtube-data-api",
+      "developer": "Leon Yin and Megan Brown and Michael Liu",
+      "url": "https://pypi.org/project/youtube-data-api/",
+      "tags": ["youtube", "api", "wrapper", "python"]
+    }
+  ]
+}
